@@ -1,6 +1,5 @@
 # RBAC Schema
-
-This project provides a **Role-Based Access Control (RBAC) schema** built on PostgreSQL. It defines the core entities—principals, roles, permissions, teams, and access requests—needed to manage fine-grained authorization in modern systems.
+This project provides a **Role-Based Access Control (RBAC) schema** built on PostgreSQL. It defines the core entities—principals, roles, permissions, teams, and access requests—needed to manage fine-grained authorization in modern systems. It contains an RBAC schema for a service-monitor for all possible services you could have in an organization
 
 The schema includes:
 - **Principals**: Users or services requesting access.
